@@ -3,7 +3,7 @@
 Pipeline de séries temporelles de bout en bout sur 45 magasins Walmart (143 semaines) :
 EDA → stationnarité (ADF + KPSS) → ACF/PACF → baselines → SARIMAX avec variables exogènes → walk-forward → prévision à 12 semaines → application Streamlit.
 
-🔗 **Application** : _à compléter (lien Streamlit Cloud)_
+🔗 **Application** :(https://walmart-sales-forecasting-hf6gdgmk4rtpvwqj6r6tj9.streamlit.app/)
 
 ![Prévision 12 semaines](assets/forecast_12_weeks.png)
 
